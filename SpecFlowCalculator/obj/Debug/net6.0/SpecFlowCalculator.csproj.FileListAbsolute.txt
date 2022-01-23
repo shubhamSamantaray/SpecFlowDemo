@@ -1,0 +1,12 @@
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.deps.json
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.dll
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\ref\SpecFlowCalculator.dll
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.pdb
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfo.cs
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.dll
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\ref\SpecFlowCalculator.dll
+C:\Users\Shubha\source\repos\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.pdb
